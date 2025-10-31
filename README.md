@@ -58,6 +58,7 @@ _Updated automatically on merge to `main`._
 
 | Project | Focus area | Submitted by | Created (UTC) |
 |---|---|---|---|
+| [Driving Buddy](95b5d2b7938832108543b2597bba109c/update/x_snc_hack4good_0_hack4good_proposal_92ec51e783fc7210ba4ec1e6feaad36e.xml) | 🎓 Education and Youth Services | <a href="https://github.com/Mexiprince"><img src="https://avatars.githubusercontent.com/u/34014440?v=4&s=40" width="20" height="20" alt="@Mexiprince"/> @Mexiprince</a> | 2025-10-31 |
 | [Supplement Booster](95b5d2b7938832108543b2597bba109c/update/x_snc_hack4good_0_hack4good_proposal_f1c1596383b0f21056039565eeaad38d.xml) | 🧩 Other | <a href="https://github.com/anjimuvva"><img src="https://avatars.githubusercontent.com/u/42597425?v=4&s=40" width="20" height="20" alt="@anjimuvva"/> @anjimuvva</a> | 2025-10-31 |
 | [KiranaConnect – Digital Bridge for Local Stores](95b5d2b7938832108543b2597bba109c/update/x_snc_hack4good_0_hack4good_proposal_b47a81a7537032105689f7e0a0490e44.xml) | 🧩 Other | <a href="https://github.com/zakir8992"><img src="https://avatars.githubusercontent.com/u/37108575?v=4&s=40" width="20" height="20" alt="@zakir8992"/> @zakir8992</a> | 2025-10-31 |
 | [Campus Safe Haven](95b5d2b7938832108543b2597bba109c/update/x_snc_hack4good_0_hack4good_proposal_3ec0746783b87210ba4ec1e6feaad3ef.xml) | 🧪 Cause and Cure | <a href="https://github.com/Mexiprince"><img src="https://avatars.githubusercontent.com/u/34014440?v=4&s=40" width="20" height="20" alt="@Mexiprince"/> @Mexiprince</a> | 2025-10-31 |
